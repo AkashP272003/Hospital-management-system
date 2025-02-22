@@ -1,0 +1,123 @@
+body {
+    background-color: #007e99;
+    
+} 
+/* heading styling */
+.heading {
+    font-weight: 500;
+    font-size: 2rem;
+    text-align: center;
+    margin: 3%;
+    color: aliceblue;
+}
+
+/* card styling */
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10%;
+
+}
+
+.card-container {
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    box-shadow: 0 4px 8px 0 #005f73;
+    transition: all 0.3s ease-in;
+    background-color: #ffffff;  
+}
+
+.card-container:hover {
+    scale: 1.08;
+    transform: translateY(-0.4rem)
+}
+
+
+/* table styling */
+
+.patient-heading {
+    display: none;
+
+    display: none;
+    font: 300;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.bills-heading {
+    display: none;
+
+    font: 300;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.appoinments-heading {
+    display: none;
+
+    font: 300;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.doctors-list-heading {
+    display: none;
+
+    font: 300;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.patient-table-container {
+    display: none   ;
+    width: 80%;
+    margin: 2% 10%;
+
+}
+
+.doctors-table-container {
+    display: none   ;
+    width: 80%;
+    margin: 2% 10%;
+}
+
+.bills-table-container {
+    display: none   ;
+    width: 80%;
+    margin: 2% 10%;
+}
+
+.appoinments-container  {
+    display: none;
+    width: 80%;
+    margin: 2% 10%;
+}
+
+table {
+
+    border-radius: 3%;
+    border-collapse: separate;
+    border-spacing: 0;
+    overflow: hidden;
+
+}
+
+
+
+td, th{
+    text-align: center;
+    word-wrap: break-word;
+    white-space: normal;
+    max-width: 200px;
+    overflow-wrap: break-word;
+    padding: 1rem;
+}
+
+
+
+

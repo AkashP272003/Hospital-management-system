@@ -1,0 +1,26 @@
+.options {
+    margin: 3% 2%;
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 #838282;
+
+}
+
+.doctor-heading {
+    font-weight: 500;
+    text-align: center;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+}
+
+.search-field {
+    background-color: white;
+
+
+}
