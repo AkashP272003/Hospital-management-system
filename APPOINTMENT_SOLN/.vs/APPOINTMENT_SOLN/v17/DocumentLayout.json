@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|c:\\users\\2387572\\onedrive - cognizant\\desktop\\appointment_soln\\appointmentda_lib2\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|solutionrelative:appointmentda_lib2\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3384FCC0-8B60-4B19-AF4E-4A5AFA6F19A0}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\consoleapp1\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3384FCC0-8B60-4B19-AF4E-4A5AFA6F19A0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\PatientRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|solutionrelative:APPOINTMENTDA_LIB2\\Repositories\\PatientRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\appointmentbo_lib2\\bo\\patientbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|solutionrelative:appointmentbo_lib2\\bo\\patientbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|solutionrelative:APPOINTMENTBO_LIB2\\Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\AppointmentBO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|solutionrelative:APPOINTMENTBO_LIB2\\Models\\AppointmentBO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\appointmentda_lib2\\models\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|solutionrelative:appointmentda_lib2\\models\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|solutionrelative:APPOINTMENTDA_LIB2\\Models\\Bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\DoctorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|solutionrelative:APPOINTMENTDA_LIB2\\Repositories\\DoctorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|solutionrelative:APPOINTMENTDA_LIB2\\Models\\Appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3384FCC0-8B60-4B19-AF4E-4A5AFA6F19A0}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3384FCC0-8B60-4B19-AF4E-4A5AFA6F19A0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\appointmentbo_lib2\\bo\\userbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|solutionrelative:appointmentbo_lib2\\bo\\userbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|solutionrelative:APPOINTMENTDA_LIB2\\Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|solutionrelative:APPOINTMENTDA_LIB2\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\appointmentda_lib2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|solutionrelative:appointmentda_lib2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\appointmentbo_lib2\\bo\\doctorbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|solutionrelative:appointmentbo_lib2\\bo\\doctorbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|solutionrelative:APPOINTMENTDA_LIB2\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\appointmentbo_lib2\\bo\\billbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|solutionrelative:appointmentbo_lib2\\bo\\billbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\appointmentda_lib2\\repositories\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B1401-BD4F-41AD-BDCA-2B1E9E04FE5E}|APPOINTMENTDA_LIB2\\APPOINTMENTDA_LIB2.csproj|solutionrelative:appointmentda_lib2\\repositories\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\appointmentbo_lib2\\models\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|solutionrelative:appointmentbo_lib2\\models\\billinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|solutionrelative:APPOINTMENTBO_LIB2\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\Appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97952D4-3998-46FA-B563-F03327C116F5}|APPOINTMENTBO_LIB2\\APPOINTMENTBO_LIB2.csproj|solutionrelative:APPOINTMENTBO_LIB2\\Models\\Appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\ConsoleApp1\\Test.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Test.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\ConsoleApp1\\Test.cs",
+              "RelativeToolTip": "ConsoleApp1\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:34:52.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentBO.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\AppointmentBO.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTBO_LIB2\\Models\\AppointmentBO.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\AppointmentBO.cs",
+              "RelativeToolTip": "APPOINTMENTBO_LIB2\\Models\\AppointmentBO.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwFoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:28:47.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTDA_LIB2\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "APPOINTMENTDA_LIB2\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwHMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:16:54.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientBO.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\BO\\PatientBO.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTBO_LIB2\\BO\\PatientBO.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\BO\\PatientBO.cs",
+              "RelativeToolTip": "APPOINTMENTBO_LIB2\\BO\\PatientBO.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:52:00.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTBO_LIB2\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\Patient.cs",
+              "RelativeToolTip": "APPOINTMENTBO_LIB2\\Models\\Patient.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:39:30.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTDA_LIB2\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "APPOINTMENTDA_LIB2\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwIoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:35:31.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillInfo.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\BillInfo.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTDA_LIB2\\Models\\BillInfo.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\BillInfo.cs",
+              "RelativeToolTip": "APPOINTMENTDA_LIB2\\Models\\BillInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:12:45.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTDA_LIB2\\Models\\Bill.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Bill.cs",
+              "RelativeToolTip": "APPOINTMENTDA_LIB2\\Models\\Bill.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:45:37.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTDA_LIB2\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "APPOINTMENTDA_LIB2\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwGcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:20:34.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTDA_LIB2\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Appointment.cs",
+              "RelativeToolTip": "APPOINTMENTDA_LIB2\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:32:16.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAPQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:52:10.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTDA_LIB2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\User.cs",
+              "RelativeToolTip": "APPOINTMENTDA_LIB2\\Models\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T05:20:38.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTDA_LIB2\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "APPOINTMENTDA_LIB2\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAiwJsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:15:29.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserBo.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\BO\\UserBo.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTBO_LIB2\\BO\\UserBo.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\BO\\UserBo.cs",
+              "RelativeToolTip": "APPOINTMENTBO_LIB2\\BO\\UserBo.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwFMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T04:15:59.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorBo.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\BO\\DoctorBo.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTBO_LIB2\\BO\\DoctorBo.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\BO\\DoctorBo.cs",
+              "RelativeToolTip": "APPOINTMENTBO_LIB2\\BO\\DoctorBo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:44:25.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTDA_LIB2\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Patient.cs",
+              "RelativeToolTip": "APPOINTMENTDA_LIB2\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:35:00.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTDA_LIB2\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Models\\Doctor.cs",
+              "RelativeToolTip": "APPOINTMENTDA_LIB2\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:21:08.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BillBO.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\BO\\BillBO.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTBO_LIB2\\BO\\BillBO.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\BO\\BillBO.cs",
+              "RelativeToolTip": "APPOINTMENTBO_LIB2\\BO\\BillBO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:58:19.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BillRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\BillRepository.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTDA_LIB2\\Repositories\\BillRepository.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTDA_LIB2\\Repositories\\BillRepository.cs",
+              "RelativeToolTip": "APPOINTMENTDA_LIB2\\Repositories\\BillRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwEkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:51:45.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BillInfo.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\BillInfo.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTBO_LIB2\\Models\\BillInfo.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\BillInfo.cs",
+              "RelativeToolTip": "APPOINTMENTBO_LIB2\\Models\\BillInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:13:59.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTBO_LIB2\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\Doctor.cs",
+              "RelativeToolTip": "APPOINTMENTBO_LIB2\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:24:08.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "APPOINTMENTBO_LIB2\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\2387572\\OneDrive - Cognizant\\Desktop\\APPOINTMENT_SOLN\\APPOINTMENTBO_LIB2\\Models\\Appointment.cs",
+              "RelativeToolTip": "APPOINTMENTBO_LIB2\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:35:21.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
